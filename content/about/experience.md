@@ -29,7 +29,8 @@ experience:
     location: Aberdeen, United Kingdom
     date_start: '2024-05-13'
     date_end: '2024-08-30'
-    description: Optimised business operations and produced actionable insights through PowerBI.
+    description: |
+        Optimised business operations and produced actionable insights through PowerBI.
         Responsibilities include:
         
         * Analysing
