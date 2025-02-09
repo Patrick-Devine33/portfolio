@@ -23,25 +23,24 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: MSc Data Science and Artificial Intelligence
-    company: University of Liverpool!
+    company: University of Liverpool
     company_url: ''
-    company_logo: org-x
-    location: California
+    company_logo: Liverpool logo
+    location: Liverpool, United Kingdom
     date_start: '2024-09-23'
     date_end: '2025-09-30'
     description: |2-
         * Dissertation on Y
-        * Basketball team
-        * DJ club
+        
 
   - title: BSc Mathematics
     company: University of Aberdeen
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    company_logo: aberdeen logo
+    location: Aberdeen, United Kingdom
+    date_start: '2020-09-21'
+    date_end: '2024-06-30'
+    description: My dissertation was on Laplace Transforms
 
 design:
   columns: '1'
