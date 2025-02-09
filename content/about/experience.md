@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Operational Data Analyst Intern
+    company: Unique Group
+    company_url: 'https://www.uniquegroup.com'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
+    location: Aberdeen, United Kingdom
+    date_start: '2024-05-13'
+    date_end: '2024-08-30'
+    description: Optimised business operations and produced actionable insights through PowerBI
         Responsibilities include:
         
         * Analysing
