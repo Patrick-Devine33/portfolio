@@ -18,12 +18,12 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include optimisational modelling, end-to-end machine learning, and artificial intelligence.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Data Engineering
+- Artificial Intelligence
+- Modelling
 
 #education:
 #  courses:
@@ -45,16 +45,14 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/patrick-devine-4aa6881aa/
+  
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Patrick-Devine33
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,10 +61,12 @@ social:
     link: cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: patrick.devine33@gmail.com
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a MSc Data Science and Artificial Intelligence at the University of Liverpool. Prior to this I spent the summer of 2024 as an Operational Data Analyst at Unique Group where I gained invaluable experience and contributed to the optimisation of asset liquidations.
+
+I earned by BSc Mathematics at the University of Aberdeen, where I modelled the MVP winner of the NBA in 2024.
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
