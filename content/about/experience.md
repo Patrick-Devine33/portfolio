@@ -37,14 +37,14 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Accounts Assistant
+    company: J M Taylor
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Ellon, Aberdeenshire
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Engaged in accounts production and management, ensuring accurate financial reporting and compliance.
 
 design:
   columns: '1'
