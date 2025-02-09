@@ -44,7 +44,7 @@ experience:
 
 
 
-  - title: Non Major (Mathemtics Focus)
+  - title: Non-Degree (Mathemtics Focus)
     company: University of Florida
     company_url: ''
     company_logo: UF logo
