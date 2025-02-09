@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: MSc Data Science and Artificial Intelligence
-    company: University of Liverpool
+    company: University of Liverpool!
     company_url: ''
     company_logo: org-x
     location: California
