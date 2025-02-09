@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: Liverpool logo
     location: Liverpool, United Kingdom
-    date_start: '2024-09-23'
-    date_end: '2025-09-30'
+    date_start: 'September 2024'
+    date_end: 'September 2025'
     description: |2-
         
         
@@ -38,8 +38,19 @@ experience:
     company_url: ''
     company_logo: aberdeen logo
     location: Aberdeen, United Kingdom
-    date_start: '2020-09-21'
-    date_end: '2024-06-30'
+    date_start: 'September 2020'
+    date_end: 'June 2024'
+    description: ''
+
+
+
+  - title: Non Major (Mathemtics Focus)
+    company: University of Florida
+    company_url: ''
+    company_logo: UF logo
+    location: Gainesville FL, United States of America
+    date_start: 'January 2022'
+    date_end: 'December 2022'
     description: ''
 
 design:

@@ -35,9 +35,18 @@ experience:
     company: J M Taylor
     company_url: ''
     company_logo: JMT logo
-    location: Ellon, Aberdeenshire
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Ellon, Aberdeenshire, United Kingdom
+    date_start: 'May 2023'
+    date_end: 'January 2024'
+    description: ''
+
+  - title: Accounts Specialist
+    company: University of Florida
+    company_url: ''
+    company_logo: UF logo
+    location: Gainesville FL, United Stated of America
+    date_start: 'July 2022'
+    date_end: 'October 2022'
     description: ''
 
 design:
