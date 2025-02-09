@@ -25,7 +25,7 @@ experience:
   - title: Operational Data Analyst Intern
     company: Unique Group
     company_url: 'https://www.uniquegroup.com'
-    company_logo: org-gc
+    company_logo: uniquegroupcompany_logo
     location: Aberdeen, United Kingdom
     date_start: '2024-05-13'
     date_end: '2024-08-30'
