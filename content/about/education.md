@@ -30,7 +30,7 @@ experience:
     date_start: '2024-09-23'
     date_end: '2025-09-30'
     description: |2-
-        * Dissertation on Y
+        
         
 
   - title: BSc Mathematics
@@ -40,7 +40,7 @@ experience:
     location: Aberdeen, United Kingdom
     date_start: '2020-09-21'
     date_end: '2024-06-30'
-    description: My dissertation was on Laplace Transforms
+    description: ''
 
 design:
   columns: '1'

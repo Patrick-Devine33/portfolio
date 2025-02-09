@@ -24,27 +24,21 @@ date_format: Jan 2006
 experience:
   - title: Operational Data Analyst Intern
     company: Unique Group
-    company_url: 'https://www.uniquegroup.com'
+    company_url: ''
     company_logo: uniquegroupcompany_logo
     location: Aberdeen, United Kingdom
     date_start: '2024-05-13'
     date_end: '2024-08-30'
-    description: |
-        Optimised business operations and produced actionable insights through PowerBI.
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: |2-
 
   - title: Accounts Assistant
     company: J M Taylor
     company_url: ''
-    company_logo: org-x
+    company_logo: JMT logo
     location: Ellon, Aberdeenshire
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Engaged in accounts production and management, ensuring accurate financial reporting and compliance.
+    description: ''
 
 design:
   columns: '1'
