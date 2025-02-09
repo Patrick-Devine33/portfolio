@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: uniquegroupcompany_logo
     location: Aberdeen, United Kingdom
-    date_start: '2024-05-13'
-    date_end: '2024-08-30'
+    date_start: '2024-05-01'
+    date_end: '2024-08-01'
     description: |2-
 
   - title: Accounts Assistant
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: JMT logo
     location: Ellon, Aberdeenshire, United Kingdom
-    date_start: 'May 2023'
-    date_end: 'January 2024'
+    date_start: '2023-05-01'
+    date_end: '2024-01-01'
     description: ''
 
   - title: Accounts Specialist
@@ -45,8 +45,8 @@ experience:
     company_url: ''
     company_logo: UF logo
     location: Gainesville FL, United Stated of America
-    date_start: 'July 2022'
-    date_end: 'October 2022'
+    date_start: '2022-07-01'
+    date_end: '2022-10-01'
     description: ''
 
 design:

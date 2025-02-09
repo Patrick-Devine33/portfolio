@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: Liverpool logo
     location: Liverpool, United Kingdom
-    date_start: 'September 2024'
-    date_end: 'September 2025'
+    date_start: '2024-09-01'
+    date_end: '2025-09-01'
     description: |2-
         
         
@@ -38,8 +38,8 @@ experience:
     company_url: ''
     company_logo: aberdeen logo
     location: Aberdeen, United Kingdom
-    date_start: 'September 2020'
-    date_end: 'June 2024'
+    date_start: '2020-09-01'
+    date_end: '2024-06-01'
     description: ''
 
 
@@ -49,8 +49,8 @@ experience:
     company_url: ''
     company_logo: UF logo
     location: Gainesville FL, United States of America
-    date_start: 'January 2022'
-    date_end: 'December 2022'
+    date_start: '2022-01-01'
+    date_end: '2022-12-01'
     description: ''
 
 design:
