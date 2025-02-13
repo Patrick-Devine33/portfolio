@@ -1,90 +1,126 @@
 // Starter Blog Template
 // https://hugoblox.com/hugo-themes/
 
-body {
-  background-color: rgb(247, 250, 252);
+/* ============================= */
+/*         Global Theme          */
+/* ============================= */
+:root {
+  --primary-color: #ff5733;    /* Bright Orange */
+  --secondary-color: #1abc9c;  /* Turquoise */
+  --background-color: #f8f9fa; /* Light Gray */
+  --text-color: #333;          /* Dark Gray */
+  --card-bg: #ffffff;          /* White Cards */
+  --footer-bg: #e8e8e8;        /* Light Gray Footer */
 }
 
+.dark {
+  --primary-color: #ff914d;    /* Softer Orange */
+  --secondary-color: #17a589;  /* Deep Turquoise */
+  --background-color: #121212; /* Dark Mode Background */
+  --text-color: #ddd;          /* Light Gray Text */
+  --card-bg: #1f2733;          /* Darker Cards */
+  --footer-bg: #181c24;        /* Darker Footer */
+}
+
+/* ============================= */
+/*         Global Styles         */
+/* ============================= */
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+/* ============================= */
+/*         Navbar Styling        */
+/* ============================= */
+.navbar {
+  background: var(--background-color);
+  box-shadow: none !important; /* Removes shadow */
+}
+
+.navbar a {
+  color: var(--primary-color);
+}
+
+.dark .navbar a {
+  color: var(--primary-color);
+}
+
+/* ============================= */
+/*         Article Styling       */
+/* ============================= */
 .article-container {
-  background-color: #fff;
+  background-color: var(--card-bg);
   border-radius: 15px;
+  padding: 1.5rem;
 }
 
 .dark .article-container {
-  background-color: rgb(31, 39, 51);
+  background-color: var(--card-bg);
 }
 
-// custom footer color
+/* ============================= */
+/*        Footer Styling         */
+/* ============================= */
 .page-footer {
-  background-color: rgb(247, 250, 252);
+  background-color: var(--footer-bg);
 }
 
 .dark .page-footer {
-  background-color: rgb(26, 32, 44);
+  background-color: var(--footer-bg);
 }
 
-// more rounded cards and larger gap between cards
+/* ============================= */
+/*         Link Styling          */
+/* ============================= */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--secondary-color);
+}
+
+/* ============================= */
+/*        Button Styling         */
+/* ============================= */
+button {
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: var(--secondary-color);
+}
+
+/* ============================= */
+/*        Card Styling           */
+/* ============================= */
 .card-simple {
   margin-top: 1.8rem;
   border-radius: 15px;
+  background-color: var(--card-bg);
+  padding: 1rem;
 }
 
 .dark .card-simple {
-  background: rgb(31, 39, 51);
+  background-color: var(--card-bg);
 }
 
-// no navbar shadow
-.navbar {
-  box-shadow: none !important; // 'important' to override dark mode box-shadow too.
-}
-
-// custom section padding
-.home-section {
-  padding: 1rem 0;
-}
-
-.home-section.wg-about-avatar {
-  padding: 0;
-}
-
-#profile .network-icon {
-  margin-top: 0.5rem;
-}
-
-ul.network-icon .big-icon {
-  font-size: 1.5rem;
-}
-
-.dark .portrait-title h3 {
-  color: rgba(255, 255, 255, 0.9);
-  font-weight: bold;
-}
-
-.dark .portrait-title h2 {
-  color: #fff;
-  font-weight: bold;
-}
-
-.home-section > .content {
-  width: 45em;
-  max-width: calc(100% - 4em);
-  margin: 0 auto;
-}
-
-.home-section > .content > :last-child {
-  margin-bottom: 0;
-}
-
-.home-section header {
-  margin-bottom: 1em;
-}
-
-// Narrower container for Hello World sections (primarily Blank widget content).
+/* ============================= */
+/*    Responsive Design Fixes    */
+/* ============================= */
 @media (min-width: 1200px) {
   .home-section .container {
     max-width: 880px;
   }
 }
+
 @media (min-width: 992px) {
   .home-section .container {
     max-width: 880px;
