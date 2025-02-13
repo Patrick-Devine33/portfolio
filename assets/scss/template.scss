@@ -116,9 +116,9 @@ ul.network-icon .big-icon {
   font-size: 0.8rem;
 }
 
-/* Portfolio filter button styles */
-button.portfolio-filter {
-  background-color: #ff6699 !important; /* Pink background */
+/* Change filter button background color */
+.wb-filter .btn-filter {
+  background-color: #ff6699 !important; /* Pink */
   color: #ffffff !important; /* White text */
   border: 1px solid #ff6699 !important;
   border-radius: 8px; /* Optional: rounded corners */
@@ -128,7 +128,7 @@ button.portfolio-filter {
 }
 
 /* Change button color on hover */
-button.portfolio-filter:hover {
+.wb-filter .btn-filter:hover {
   background-color: #ff3366 !important; /* Darker pink */
   color: #ffffff !important;
 }
