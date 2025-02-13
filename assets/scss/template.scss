@@ -116,36 +116,39 @@ ul.network-icon .big-icon {
   font-size: 0.8rem;
 }
 
-/* Default button color */
-.project-filters .btn {
+/* Base button style */
+.project-filters .btn,
+.project-filters .btn-primary {
   background-color: #ff6699 !important; /* Pink */
   color: white !important;
   border: 1px solid #ff6699 !important;
-  padding: 8px 16px;
   font-weight: bold;
-  cursor: pointer;
+  padding: 8px 16px;
 }
 
-/* Ensure hover color is applied */
+/* Hover state */
 .project-filters .btn:hover,
-.project-filters .btn:focus {
+.project-filters .btn-primary:hover {
   background-color: #ff3366 !important; /* Darker pink */
   color: white !important;
   border-color: #ff3366 !important;
 }
 
-/* Fix active (clicked) button color */
-.project-filters .btn.active,
+/* Active (clicked) state */
 .project-filters .btn:active,
-.project-filters .btn:focus:active {
+.project-filters .btn-primary:active,
+.project-filters .btn.active,
+.project-filters .btn-primary.active {
   background-color: #cc3366 !important; /* Even darker pink */
   border-color: #cc3366 !important;
   color: white !important;
 }
 
-/* Override Bootstrap's focus styling */
+/* Fix Bootstrap's focus effect */
 .project-filters .btn:focus,
-.project-filters .btn:active:focus {
+.project-filters .btn-primary:focus,
+.project-filters .btn:focus:active,
+.project-filters .btn-primary:focus:active {
   box-shadow: none !important;
   outline: none !important;
 }
