@@ -19,6 +19,7 @@ author: admin
 ---
 
 Hi, there! I'm Patrick, a MSc Data Science and Artificial student at the University of Liverpool.
-{style="font-size: 1.2rem; background: #0000FF; background: #FF7F04 100%; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.2rem; background: #0000FF; -webkit-background-clip: unset; -webkit-text-fill-color: unset; color: #0000FF;"}
+
 
 Check out my [resumé](/about/) and portfolio below
