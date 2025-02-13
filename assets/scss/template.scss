@@ -30,7 +30,7 @@ body {
 }
 
 .dark .card-simple {
-  background: rgb(235, 7, 7);
+  background: rgb(7, 91, 235);
 }
 
 // no navbar shadow
@@ -78,6 +78,20 @@ ul.network-icon .big-icon {
 .home-section header {
   margin-bottom: 1em;
 }
+
+/* Change filter button background and text color */
+.dark button.portfolio-filter {
+  background-color: #0000FF !important; /* Blue background */
+  color: #FFFFFF !important; /* White text */
+  border: 1px solid #0000FF !important; /* Optional: Blue border */
+}
+
+/* Change button color on hover */
+button.portfolio-filter:hover {
+  background-color: #000099 !important; /* Darker blue */
+  color: #FFFFFF !important;
+}
+
 
 // Narrower container for Hello World sections (primarily Blank widget content).
 @media (min-width: 1200px) {
