@@ -80,17 +80,18 @@ ul.network-icon .big-icon {
 }
 
 /* Change filter button background and text color */
-.dark button.portfolio-filter {
-  background-color: #0a0a0f !important; /* Blue background */
-  color: #FFFFFF !important; /* White text */
-  border: 1px solid #040407 !important; /* Optional: Blue border */
+button.portfolio-filter {
+  background-color: #ff6699 !important; /* Pink background */
+  color: #ffffff !important; /* White text */
+  border: 1px solid #ff6699 !important;
 }
 
 /* Change button color on hover */
 button.portfolio-filter:hover {
-  background-color: #030304 !important; /* Darker blue */
-  color: #FFFFFF !important;
+  background-color: #ff3366 !important; /* Darker pink */
+  color: #ffffff !important;
 }
+
 
 
 // Narrower container for Hello World sections (primarily Blank widget content).
