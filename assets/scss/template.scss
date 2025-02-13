@@ -119,9 +119,9 @@ ul.network-icon .big-icon {
 /* Base button style */
 .project-filters .btn,
 .project-filters .btn-primary {
-  background-color: #405fec !important; /* Pink */
+  background-color: #3366ff !important; /* Pink */
   color: white !important;
-  border: 1px solid #405fec !important;
+  border: 1px solid #3366ff !important;
   font-weight: bold;
   padding: 8px 16px;
 }
@@ -131,7 +131,7 @@ ul.network-icon .big-icon {
 .project-filters .btn-primary:hover {
   background-color: #08070d !important; /* Darker pink */
   color: white !important;
-  border-color: #405fec !important;
+  border-color: #3366ff !important;
 }
 
 /* Active (clicked) state */
@@ -140,7 +140,7 @@ ul.network-icon .big-icon {
 .project-filters .btn.active,
 .project-filters .btn-primary.active {
   background-color: #11070a !important; /* Even darker pink */
-  border-color: #405fec !important;
+  border-color: #3366ff !important;
   color: white !important;
 }
 
