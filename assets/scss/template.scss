@@ -30,7 +30,7 @@ body {
 }
 
 .dark .card-simple {
-  background: rgb(7, 91, 235);
+  background: rgb(2, 3, 5);
 }
 
 // no navbar shadow
@@ -81,14 +81,14 @@ ul.network-icon .big-icon {
 
 /* Change filter button background and text color */
 .dark button.portfolio-filter {
-  background-color: #0000FF !important; /* Blue background */
+  background-color: #0a0a0f !important; /* Blue background */
   color: #FFFFFF !important; /* White text */
-  border: 1px solid #0000FF !important; /* Optional: Blue border */
+  border: 1px solid #040407 !important; /* Optional: Blue border */
 }
 
 /* Change button color on hover */
 button.portfolio-filter:hover {
-  background-color: #000099 !important; /* Darker blue */
+  background-color: #030304 !important; /* Darker blue */
   color: #FFFFFF !important;
 }
 
