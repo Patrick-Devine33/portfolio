@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Hi, there! I'm **Patrick**, a MSc Data Science and Artificial student at the University of Liverpool.
-{style="font-size: 1.2rem; background: #0000FF; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+Hi, there! I'm Patrick, a MSc Data Science and Artificial student at the University of Liverpool.
+{style="font-size: 1.2rem; background: #0000FF; background: #FF7F04; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below
