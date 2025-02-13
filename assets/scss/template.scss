@@ -116,7 +116,7 @@ ul.network-icon .big-icon {
   font-size: 0.8rem;
 }
 
-/* Ensure default button color is pink */
+/* Default button color */
 .project-filters .btn {
   background-color: #ff6699 !important; /* Pink */
   color: white !important;
@@ -126,7 +126,7 @@ ul.network-icon .big-icon {
   cursor: pointer;
 }
 
-/* Change hover color */
+/* Ensure hover color is applied */
 .project-filters .btn:hover,
 .project-filters .btn:focus {
   background-color: #ff3366 !important; /* Darker pink */
@@ -136,14 +136,17 @@ ul.network-icon .big-icon {
 
 /* Fix active (clicked) button color */
 .project-filters .btn.active,
-.project-filters .btn:active {
+.project-filters .btn:active,
+.project-filters .btn:focus:active {
   background-color: #cc3366 !important; /* Even darker pink */
   border-color: #cc3366 !important;
   color: white !important;
 }
 
-/* Override Bootstrap focus styles */
+/* Override Bootstrap's focus styling */
 .project-filters .btn:focus,
 .project-filters .btn:active:focus {
   box-shadow: none !important;
+  outline: none !important;
 }
+
