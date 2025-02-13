@@ -1,0 +1,15 @@
+/*color theme: custom */
+:root {
+    --color-primary-50: 60 60 60;
+    --color-primary-100: 143 166 203;
+    --color-primary-200: 134 149 191;
+    --color-primary-300: 125 132 178;
+    --color-primary-400: 114 120 162;
+    --color-primary-500: 16 185 129;
+    --color-primary-600: 5 150 105;
+    --color-primary-700: 4 120 87;
+    --color-primary-800: 6 95 70;
+    --color-primary-900: 6 78 59;
+    --color-primary-950: 2 44 34;
+  }
+  
