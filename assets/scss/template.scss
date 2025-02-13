@@ -1,25 +1,27 @@
-// Starter Blog Template
-// https://hugoblox.com/hugo-themes/
-
 /* ============================= */
-/*         Global Theme          */
+/*         Light Mode Colors     */
 /* ============================= */
 :root {
-  --primary-color: #0856f1;    
-  --secondary-color: #631abc;  /* Turquoise */
-  --background-color: #f8f9fa; /* Light Gray */
-  --text-color: #333;          /* Dark Gray */
-  --card-bg: #ffffff;          /* White Cards */
-  --footer-bg: #e8e8e8;        /* Light Gray Footer */
+  --primary-color: #0A66C2;   /* LinkedIn Blue */
+  --secondary-color: #1ABC9C; /* Tech Green */
+  --accent-color: #F39C12;    /* Data Gold */
+  --background-color: #F8F9FA; /* Light Gray Background */
+  --text-color: #2C3E50;      /* Darker Gray for Readability */
+  --card-bg: #FFFFFF;         /* White Cards */
+  --footer-bg: #E8E8E8;       /* Light Gray Footer */
 }
 
+/* ============================= */
+/*         Dark Mode Colors      */
+/* ============================= */
 .dark {
-  --primary-color: #4dff7f;    /* Softer Orange */
-  --secondary-color: #1792a5;  /* Deep Turquoise */
-  --background-color: #121212; /* Dark Mode Background */
-  --text-color: #fffbfb;          /* Light Gray Text */
-  --card-bg: #1f2733;          /* Darker Cards */
-  --footer-bg: #181c24;        /* Darker Footer */
+  --primary-color: #1ABC9C;   /* Tech Green */
+  --secondary-color: #F39C12; /* Data Gold */
+  --accent-color: #0A66C2;    /* LinkedIn Blue */
+  --background-color: #121212; /* Deep Black */
+  --text-color: #EAEAEA;      /* Light Gray Text */
+  --card-bg: #1E1E1E;         /* Darker Cards */
+  --footer-bg: #181C24;       /* Darker Footer */
 }
 
 /* ============================= */
@@ -35,7 +37,7 @@ body {
 /* ============================= */
 .navbar {
   background: var(--background-color);
-  box-shadow: none !important; /* Removes shadow */
+  box-shadow: none !important;
 }
 
 .navbar a {
@@ -53,6 +55,7 @@ body {
   background-color: var(--card-bg);
   border-radius: 15px;
   padding: 1.5rem;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05);
 }
 
 .dark .article-container {
@@ -76,6 +79,7 @@ body {
 a {
   color: var(--primary-color);
   text-decoration: none;
+  font-weight: 600;
 }
 
 a:hover {
@@ -92,6 +96,7 @@ button {
   padding: 10px 15px;
   border-radius: 5px;
   cursor: pointer;
+  transition: background 0.3s ease-in-out;
 }
 
 button:hover {
@@ -106,6 +111,7 @@ button:hover {
   border-radius: 15px;
   background-color: var(--card-bg);
   padding: 1rem;
+  transition: all 0.3s ease-in-out;
 }
 
 .dark .card-simple {
@@ -126,6 +132,7 @@ button:hover {
     max-width: 880px;
   }
 }
+
 
 // Custom avatar size on homepage
 .avatar {
