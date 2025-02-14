@@ -153,3 +153,18 @@ ul.network-icon .big-icon {
   outline: none !important;
 }
 
+.dynamic-text {
+  font-size: 1.2rem;
+  background: #00001a;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Dark mode override */
+@media (prefers-color-scheme: dark) {
+  .dynamic-text {
+    background: none;
+    color: white;
+    -webkit-text-fill-color: white;
+  }
+}
