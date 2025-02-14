@@ -25,6 +25,10 @@ interests:
 - Artificial Intelligence
 - Modelling
 
+skills: 
+- Python
+- SQL
+
 #education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
