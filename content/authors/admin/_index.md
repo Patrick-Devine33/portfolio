@@ -38,7 +38,7 @@ interests:
   - Modelling
 
 
-skills:
+ skills:
   - name: Technical
     items:
     - name: Python
@@ -77,11 +77,11 @@ skills:
         icon_pack: fas
 
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+education:
+     courses:
+   - course: PhD in Artificial Intelligence
+     institution: Stanford University
+     year: 2012
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
