@@ -11,14 +11,14 @@ weight: 20 # The position of section on page
 # Add/remove as many `feature` blocks below as you like.
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: r-project
-    icon_pack: fab
-    name: R
-    description: 90%
-  - icon: chart-line
-    icon_pack: fas
-    name: Statistics
-    description: 100%
+  - icon: aws
+    icon_pack: custom
+    name: AWS
+    description: ''
+  - icon: powerbi
+    icon_pack: custom
+    name: DAX
+    description: ''
   - icon: sql
     icon_pack: custom
     name: SQL
