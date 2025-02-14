@@ -17,18 +17,6 @@ status:
 #- name: 腾讯
 #  url: ""
 
-type: landing
-
-sections:
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include optimisational modelling, end-to-end machine learning, and artificial intelligence.
 
@@ -77,11 +65,11 @@ skills:
         icon_pack: fas
 
 
-skills:
-  courses:
-   - course: PhD in Artificial Intelligence
-     institution: Stanford University
-     year: 2012
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
