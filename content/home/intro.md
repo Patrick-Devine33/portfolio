@@ -21,5 +21,4 @@ author: admin
 <p class="dynamic-text">Hi, there! I'm Patrick, an MSc Data Science and Artificial Intelligence student at the University of Liverpool.</p>
 
 
-
 Check out my [resumé](/about/) and portfolio below

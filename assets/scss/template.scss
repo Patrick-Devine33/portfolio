@@ -159,14 +159,16 @@ ul.network-icon .big-icon {
   background: linear-gradient(90deg, #00001a, #000040);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  color: #00001a; /* Fallback for non-webkit browsers */
+  color: #00001a; /* Fallback */
 }
 
-/* Override for dark mode */
+/* Apply dark mode styles */
 .dark-mode .dynamic-text {
   background: none;
   -webkit-background-clip: unset;
   -webkit-text-fill-color: white;
   color: white;
 }
+
+
 
