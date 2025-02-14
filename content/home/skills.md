@@ -26,7 +26,7 @@ feature:
 
   # Example using an emoji as an icon.
   - icon: py
-    icon_pack: 
+    icon_pack: custom
     name: Python
     description: ''
 
