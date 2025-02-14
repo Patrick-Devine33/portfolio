@@ -38,7 +38,7 @@ interests:
   - Modelling
 
 
- skills:
+skills:
   - name: Technical
     items:
     - name: Python
