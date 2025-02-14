@@ -19,10 +19,10 @@ feature:
     icon_pack: fas
     name: Statistics
     description: 100%
-  - icon: camera-retro
-    icon_pack: fas
-    name: Photography
-    description: 10%
+  - icon: circle-stack
+    icon_pack: fab
+    name: SQL
+    description: ''
 
   # Example using an emoji as an icon.
   - icon: python
