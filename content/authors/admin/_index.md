@@ -77,7 +77,7 @@ skills:
         icon_pack: fas
 
 
-education:
+skills:
   courses:
    - course: PhD in Artificial Intelligence
      institution: Stanford University
