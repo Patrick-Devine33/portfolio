@@ -20,7 +20,7 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include optimisational modelling, end-to-end machine learning, and artificial intelligence.
 
-interests:
+skills:
 - Data Engineering
 - Artificial Intelligence
 - Modelling
