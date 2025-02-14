@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-<p class="dynamic-text">Hi, there! I'm Patrick, an MSc Data Science and Artificial Intelligence student at the University of Liverpool.</p>
+{style="font-size: 1.2rem; background: #cccccc; background: #cccccc; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 
 Check out my [resumé](/about/) and portfolio below
