@@ -19,8 +19,8 @@ feature:
     icon_pack: fas
     name: Statistics
     description: 100%
-  - icon: circle-stack
-    icon_pack: fab
+  - icon: sql
+    icon_pack: custom
     name: SQL
     description: ''
 
