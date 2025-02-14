@@ -20,7 +20,7 @@ feature:
     name: Statistics
     description: 100%
   - icon: circle-stack
-    icon_pack: hb
+    icon_pack: fab
     name: SQL
     description: ''
 
