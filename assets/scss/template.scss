@@ -153,18 +153,20 @@ ul.network-icon .big-icon {
   outline: none !important;
 }
 
+/* Default style for light mode */
 .dynamic-text {
   font-size: 1.2rem;
-  background: #00001a;
+  background: linear-gradient(90deg, #00001a, #000040);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  color: #00001a; /* Fallback for non-webkit browsers */
 }
 
-/* Dark mode override */
-@media (prefers-color-scheme: dark) {
-  .dynamic-text {
-    background: none;
-    color: white;
-    -webkit-text-fill-color: white;
-  }
+/* Override for dark mode */
+.dark-mode .dynamic-text {
+  background: none;
+  -webkit-background-clip: unset;
+  -webkit-text-fill-color: white;
+  color: white;
 }
+
