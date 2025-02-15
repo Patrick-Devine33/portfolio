@@ -25,17 +25,17 @@ interests:
   - Artificial Intelligence
   - Modelling
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: MSc Data Science and Artificial Intelligence
+    institution: University of Liverpool
+    year: 2025
+  - course: BSc Mathematics
+    institution: University of Aberdeen
+    year: 2024
+  - course: Non-Degree (Mathematics Focus)
+    institution: University of Florida
+    year: Jan 2022 - Dec 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
