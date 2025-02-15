@@ -65,9 +65,9 @@ social:
 email: patrick.devine33@gmail.com
 ---
 
-I am currently a MSc Data Science and Artificial Intelligence student at the University of Liverpool. Prior to this, I spent the summer of 2024 as an Operational Data Analyst at Unique Group where I gained invaluable experience and contributed to the optimisation of asset liquidations.
+I am currently pursuing an MSc Data Science and Artificial Intelligence at the University of Liverpool. In the summer of 2024, I worked as an Operational Data Analyst at Unique Group, where I gained valuable experience and contributed to optimising asset liquidations.
 
-I earned by BSc Mathematics at the University of Aberdeen, where I modelled the MVP winner of the NBA in 2024.
+I earned my BSc Mathematics from the University of Aberdeen, where I developed a model to predict the NBA MVP winner for 2024.
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

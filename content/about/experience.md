@@ -35,7 +35,7 @@ experience:
     company: J M Taylor
     company_url: ''
     company_logo: JMT logo
-    location: Ellon, Aberdeenshire, United Kingdom
+    location: Ellon, United Kingdom
     date_start: '2023-05-01'
     date_end: '2024-01-01'
     description: ''

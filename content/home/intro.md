@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Hi, there! I'm Patrick, a MSc Data Science and Artificial student at the University of Liverpool.
+Hi there! I’m Patrick, an MSc Data Science and Artificial Intelligence student at the University of Liverpool.
 
 {style="font-size: 1.2rem; background: #000000; background: #000000; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
