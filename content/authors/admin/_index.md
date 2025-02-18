@@ -23,7 +23,6 @@ bio: My interests include optimisational modelling, end-to-end machine learning,
 interests:
   - Data Engineering - Snowflake schema, Star schema, ETL/ELT processes
   - Artificial Intelligence - Machine Learning, Neural Networks, Model Optimisation
-  - Modelling - Classification, Regression, Forecasting 
 
 education:
   courses:
