@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include optimisational modelling, end-to-end machine learning, and artificial intelligence.
+#bio: My interests include optimisational modelling, end-to-end machine learning, and artificial intelligence.
 
 interests:
   - Data Engineering - Snowflake schema, Star schema, ETL/ELT processes
