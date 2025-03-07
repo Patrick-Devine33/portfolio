@@ -25,9 +25,9 @@ feature:
     description: ''
 
   # Example using an emoji as an icon.
-  - icon: py
+  - icon: Scikit-learn
     icon_pack: custom
-    name: Python
+    name: scikit-learn
     description: ''
   - icon: PyTorch
     icon_pack: custom
