@@ -1,6 +1,6 @@
 ---
 title: Dynamic Pricing Slots
-summary: This project is currently being developed
+summary: This project is currently being developed. Stay tuned!
 tags:
   - ML
 date: 2025-02-17
