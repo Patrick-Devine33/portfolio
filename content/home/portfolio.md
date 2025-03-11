@@ -34,7 +34,7 @@ content:
       tag: DL
     - name: NLP
       tag: NLP
-    - name: Reinforcement Learning
+    - name: RL
       tag: RL
     - name: Computer Vision
       tag: CV
