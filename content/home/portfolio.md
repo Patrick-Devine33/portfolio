@@ -34,6 +34,10 @@ content:
       tag: DL
     - name: NLP
       tag: NLP
+    - name: Reinforcement Learning
+      tag: RL
+    - name: Computer Vision
+      tag: CV
 
 design:
   columns: '1'
