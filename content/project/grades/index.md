@@ -1,6 +1,6 @@
 ---
 title: Academic Success Predictor
-summary: Predicting academic success via classification 
+summary: grade prediction via RandomForest, SVM and Logistic Regression
 tags:
   - ML
 date: 2025-03-07
