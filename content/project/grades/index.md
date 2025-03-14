@@ -1,6 +1,6 @@
 ---
 title: Academic Success Predictor
-summary: grade prediction via RF, SVM and Logistic Regression
+summary: Grade prediction via RF, SVM and Logistic Regression
 tags:
   - ML
 date: 2025-03-07
