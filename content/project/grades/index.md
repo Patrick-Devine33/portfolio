@@ -1,6 +1,6 @@
 ---
 title: Academic Success Predictor
-summary: Predicting academic success using classification machine learning
+summary: Predicting academic success via classification 
 tags:
   - ML
 date: 2025-03-07
