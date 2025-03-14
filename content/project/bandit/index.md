@@ -1,6 +1,6 @@
 ---
 title: Multi-Armed Bandit Problem
-summary: This project is current being developed. Stay tuned!
+summary: Epsilon greedy algorithm for 5,10,20-Armed Bandits
 tags:
   - RL
 date: 2025-03-11
