@@ -1,6 +1,6 @@
 ---
 title: CNN-Computer Vision
-summary: This project is current being developed. Stay tuned!
+summary: Image classification using ResNet50
 tags:
   - DL
 date: 2025-03-14
