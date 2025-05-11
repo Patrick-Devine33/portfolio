@@ -1,6 +1,6 @@
 ---
 title: Autonomous Lunar Landing
-summary: Agent learns optimal control through deep reinforcement learning.
+summary: Agent learns optimal control through deep RL
 tags:
   - RL
 date: 2025-05-11
