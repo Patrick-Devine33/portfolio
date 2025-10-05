@@ -33,10 +33,6 @@ feature:
     icon_pack: custom
     name: PyTorch
     description: ''
-  - icon: Tensorflow
-    icon_pack: custom
-    name: Tensorflow
-    description: ''
 
 
 ---

@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Finance BI & DA Senior Analyst
+    company: Rathbones
+    company_url: ''
+    company_logo: Rathbones
+    location: Liverpool, United Kingdom
+    date_start: '2025-06-30'
+    date_end: 'Present'
+    description: |2-
+
   - title: Operational Data Analyst Intern
     company: Unique Group
     company_url: ''
@@ -29,7 +38,7 @@ experience:
     location: Aberdeen, United Kingdom
     date_start: '2024-05-01'
     date_end: '2024-08-01'
-    description: |2-
+    description: ''
 
   - title: Accounts Assistant
     company: J M Taylor
