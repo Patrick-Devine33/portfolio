@@ -28,7 +28,7 @@ experience:
     company_logo: Rathbones
     location: Liverpool, United Kingdom
     date_start: '2025-06-30'
-    date_end: 'Present'
+    date_end: null
     description: |2-
 
   - title: Operational Data Analyst Intern
